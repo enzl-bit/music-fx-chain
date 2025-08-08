@@ -1,0 +1,7 @@
+[VSTHostProject]
+Chain=Music Listening Chain
+Slot1=ReaXcomp.dll
+Slot2=ReaEQ.dll
+Slot3=ReaComp.dll
+Slot4=ReaGate.dll
+Slot5=JS_Stereo_Enhancer.dll

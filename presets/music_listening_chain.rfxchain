@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<FXCHAIN presetname="Music Listening Chain">
+  <FX>
+    <FXID>VST: ReaXcomp (Cockos)</FXID>
+  </FX>
+  <FX>
+    <FXID>VST: ReaEQ (Cockos)</FXID>
+  </FX>
+  <FX>
+    <FXID>VST: ReaComp (Cockos)</FXID>
+  </FX>
+  <FX>
+    <FXID>VST: ReaGate (Cockos)</FXID>
+  </FX>
+  <FX>
+    <FXID>JS: Stereo Enhancer</FXID>
+    <Param index="0" value="1.0"/>       <!-- Width Low -->
+    <Param index="1" value="1.22"/>      <!-- Width High -->
+    <Param index="2" value="250"/>       <!-- Crossover -->
+  </FX>
+</FXCHAIN>
