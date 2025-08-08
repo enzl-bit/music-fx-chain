@@ -45,3 +45,6 @@ This repository contains optimized VST chain presets for enhancing music listeni
 ---
 
 Feel free to fork, modify, and improve this preset for your listening needs!
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/Zwsss)
+
