@@ -1,3 +1,7 @@
+A curated collection of VST FX Chain presets for superior music listening experience.  
+Works with REAPER, VSTHost, and Equalizer APO.  
+Perfect for audiophiles, casual listeners, and music streamers
+
 # 🎧 Music VST Presets for Listening
 
 This repository contains optimized VST chain presets for enhancing music listening using [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) and [ReaPlugs VST FX Suite](https://www.reaper.fm/reaplugs/).
